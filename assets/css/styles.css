@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #525B65;
+}
+
+#card {
+  overflow: hidden;
+  position: relative;
+}
+
+#card-name {
+}
+
+#card-info {
+  position: absolute;
+}
+
+a {
+  text-decoration: none;
+}
+
+.skill-img {
+  width: 90px;
+  display: inline-block;
+  margin: 5px;
+}
+
